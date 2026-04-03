@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">Adresă SOCKS:</string>
+    <string name="socks_udp_addr">Adresă UDP SOCKS:</string>
+    <string name="socks_port">Port SOCKS:</string>
+    <string name="socks_user">Utilizator SOCKS:</string>
+    <string name="socks_pass">Parolă SOCKS:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">UDP prin TCP</string>
+    <string name="remote_dns">DNS la distanță</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">Global</string>
+    <string name="apps">Aplicații</string>
+    <string name="save">Salvează</string>
+    <string name="control_enable">Activează</string>
+    <string name="control_disable">Dezactivează</string>
+</resources>

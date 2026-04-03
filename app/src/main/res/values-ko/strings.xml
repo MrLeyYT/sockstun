@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">SOCKS 주소:</string>
+    <string name="socks_udp_addr">SOCKS UDP 주소:</string>
+    <string name="socks_port">SOCKS 포트:</string>
+    <string name="socks_user">SOCKS 사용자명:</string>
+    <string name="socks_pass">SOCKS 비밀번호:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">TCP를 통한 UDP</string>
+    <string name="remote_dns">원격 DNS</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">전역</string>
+    <string name="apps">앱</string>
+    <string name="save">저장</string>
+    <string name="control_enable">활성화</string>
+    <string name="control_disable">비활성화</string>
+</resources>

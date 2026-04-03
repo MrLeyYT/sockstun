@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">SOCKSアドレス：</string>
+    <string name="socks_udp_addr">SOCKS UDPアドレス：</string>
+    <string name="socks_port">SOCKSポート：</string>
+    <string name="socks_user">SOCKSユーザー名：</string>
+    <string name="socks_pass">SOCKSパスワード：</string>
+    <string name="dns_ipv4">DNS IPv4：</string>
+    <string name="dns_ipv6">DNS IPv6：</string>
+    <string name="udp_in_tcp">UDP over TCP</string>
+    <string name="remote_dns">リモートDNS</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">グローバル</string>
+    <string name="apps">アプリ</string>
+    <string name="save">保存</string>
+    <string name="control_enable">有効</string>
+    <string name="control_disable">無効</string>
+</resources>

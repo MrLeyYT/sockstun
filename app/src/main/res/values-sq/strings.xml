@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">Adresa SOCKS:</string>
+    <string name="socks_udp_addr">Adresa UDP SOCKS:</string>
+    <string name="socks_port">Porta SOCKS:</string>
+    <string name="socks_user">Përdoruesi SOCKS:</string>
+    <string name="socks_pass">Fjalëkalimi SOCKS:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">UDP mbi TCP</string>
+    <string name="remote_dns">DNS në distancë</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">Global</string>
+    <string name="apps">Aplikacionet</string>
+    <string name="save">Ruaj</string>
+    <string name="control_enable">Aktivizo</string>
+    <string name="control_disable">Çaktivizo</string>
+</resources>

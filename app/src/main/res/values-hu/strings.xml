@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">SOCKS-cím:</string>
+    <string name="socks_udp_addr">SOCKS UDP-cím:</string>
+    <string name="socks_port">SOCKS-port:</string>
+    <string name="socks_user">SOCKS-felhasználónév:</string>
+    <string name="socks_pass">SOCKS-jelszó:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">UDP TCP-n keresztül</string>
+    <string name="remote_dns">Távoli DNS</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">Globális</string>
+    <string name="apps">Alkalmazások</string>
+    <string name="save">Mentés</string>
+    <string name="control_enable">Bekapcsolás</string>
+    <string name="control_disable">Kikapcsolás</string>
+</resources>

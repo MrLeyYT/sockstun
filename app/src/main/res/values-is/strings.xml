@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">SOCKS-vistfang:</string>
+    <string name="socks_udp_addr">SOCKS-UDP-vistfang:</string>
+    <string name="socks_port">SOCKS-gátt:</string>
+    <string name="socks_user">SOCKS-notendanafn:</string>
+    <string name="socks_pass">SOCKS-lykilorð:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">UDP yfir TCP</string>
+    <string name="remote_dns">Fjartengdur DNS</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">Alheims</string>
+    <string name="apps">Forrit</string>
+    <string name="save">Vista</string>
+    <string name="control_enable">Virka</string>
+    <string name="control_disable">Afvirkja</string>
+</resources>

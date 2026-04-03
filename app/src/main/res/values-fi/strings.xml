@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">SOCKS-osoite:</string>
+    <string name="socks_udp_addr">SOCKS-UDP-osoite:</string>
+    <string name="socks_port">SOCKS-portti:</string>
+    <string name="socks_user">SOCKS-käyttäjätunnus:</string>
+    <string name="socks_pass">SOCKS-salasana:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">UDP TCP:n yli</string>
+    <string name="remote_dns">Etä-DNS</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">Globaali</string>
+    <string name="apps">Sovellukset</string>
+    <string name="save">Tallenna</string>
+    <string name="control_enable">Ota käyttöön</string>
+    <string name="control_disable">Poista käytöstä</string>
+</resources>

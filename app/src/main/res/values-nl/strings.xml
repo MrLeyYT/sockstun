@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocksTun</string>
+    <string name="socks_addr">SOCKS-adres:</string>
+    <string name="socks_udp_addr">SOCKS-UDP-adres:</string>
+    <string name="socks_port">SOCKS-poort:</string>
+    <string name="socks_user">SOCKS-gebruikersnaam:</string>
+    <string name="socks_pass">SOCKS-wachtwoord:</string>
+    <string name="dns_ipv4">DNS IPv4:</string>
+    <string name="dns_ipv6">DNS IPv6:</string>
+    <string name="udp_in_tcp">UDP via TCP</string>
+    <string name="remote_dns">Externe DNS</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="global">Globaal</string>
+    <string name="apps">Apps</string>
+    <string name="save">Opslaan</string>
+    <string name="control_enable">Inschakelen</string>
+    <string name="control_disable">Uitschakelen</string>
+</resources>
